@@ -1,4 +1,4 @@
-# Sample Sys_Status In c++
+# Sample Sys_Status In C++
 
 ### build
 ```bash
