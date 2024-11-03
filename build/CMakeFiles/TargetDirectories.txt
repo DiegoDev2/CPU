@@ -1,0 +1,3 @@
+/Users/diegodev/programming/c++/build/CMakeFiles/task_manager_tui.dir
+/Users/diegodev/programming/c++/build/CMakeFiles/edit_cache.dir
+/Users/diegodev/programming/c++/build/CMakeFiles/rebuild_cache.dir
